@@ -22,6 +22,7 @@ I'm a passionate student and programming enthusiast with a keen interest in both
 
 ### Frameworks & Libraries
 - Vue.js 3
+- Flask
 - Qt5/6 (Python)
 - Flutter (Basic)
 
