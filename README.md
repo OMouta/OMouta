@@ -22,6 +22,7 @@ I'm a passionate student and programming enthusiast with a keen interest in both
 
 ### Frameworks & Libraries
 - Vue.js 3
+- React
 - Flask
 - Qt5/6 (Python)
 - Flutter (Basic)
@@ -29,6 +30,8 @@ I'm a passionate student and programming enthusiast with a keen interest in both
 ### Tools & Platforms
 - Git
 - npm
+- pacman (Basic)
+- MSYS2 (Basic)
 - Cargo (Basic)
 
 ## Projects
@@ -36,6 +39,9 @@ I'm a passionate student and programming enthusiast with a keen interest in both
 ### Qt Projects with Python
 - [CattoPad](https://github.com/OMouta/CattoPad)
   - A small notepad project with plugin support and themes.
+
+- [SimpleBrowser](https://github.com/OMouta/SimpleBrowser)
+  - A small browser project using the QtWebEngineView, with history and bookmark support.
 
 ---
 
