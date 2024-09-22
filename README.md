@@ -37,15 +37,4 @@ I'm a passionate student and programming enthusiast with a keen interest in both
 - MSYS2 (Basic)
 - Cargo (Basic)
 
-## Projects
-
-### Qt Projects with Python
-- [CattoPad](https://github.com/OMouta/CattoPad)
-  - A small notepad project with plugin support and themes.
-
-- [SimpleBrowser](https://github.com/OMouta/SimpleBrowser)
-  - A small browser project using the QtWebEngineView, with history and bookmark support.
-
----
-
 *This README was made with ❤️ by omouta*
