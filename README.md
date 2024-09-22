@@ -7,7 +7,7 @@ I'm a passionate student and programming enthusiast with a keen interest in both
 - 🎓 **Student**: Currently pursuing Computer engineering in a professional school in porto, portugal.
 - 🌐 **Frontend Development**: Proficient in JavaScript (JS), TypeScript (TS), CSS, and HTML. Experienced with Vue.js 3 and Nuxt.js.
 - 💻 **Backend & General Programming**: Skilled in C++, C, Lua, Python, and have some experience with Flutter.
-- 🔧 **Tools & Technologies**: Familiar with Git, npm, and a bit of Cargo.
+- 🔧 **Tools & Technologies**: Familiar with Git, npm, npx and a bit of Cargo.
 - 🛠 **Projects**: Worked on PyQt6 projects, developed Roblox systems using Luau and full-stack websites using node.js.
 
 ## Skills
