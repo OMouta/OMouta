@@ -32,6 +32,7 @@ I'm a passionate student and programming enthusiast with a keen interest in both
 ### Tools & Platforms
 - Git
 - npm
+- npx
 - pacman (Basic)
 - MSYS2 (Basic)
 - Cargo (Basic)
