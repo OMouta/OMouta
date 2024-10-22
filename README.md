@@ -21,8 +21,5 @@ I'm a passionate student and programming enthusiast with a keen interest in both
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OMouta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=OMouta&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-*This README was made with ❤️ by omouta*
+*This README was made with ❤️ by omouta using GPRM*
