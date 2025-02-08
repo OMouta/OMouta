@@ -1,4 +1,4 @@
-# Hi there, I'm omouta 👋
+# Hi there, I'm Tiago Mouta 👋
 
 I'm a student and programming enthusiast with interest in both frontend and backend development
 - 🎓 **Student**: Currently pursuing Computer engineering in a professional school in porto, portugal.
