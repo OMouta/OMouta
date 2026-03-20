@@ -1,2 +1,2 @@
 # Hi there, I'm Tiago Mouta 👋
-https://tigas.dev
+https://mouta.me
