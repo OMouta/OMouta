@@ -1,2 +1,1 @@
-# Hi there, I'm Tiago Mouta 👋
-https://mouta.me
+[<img width="1286" height="682" alt="Screenshot 2026-04-14 at 16-38-05 Tiago Mouta Full-stack developer" src="https://github.com/user-attachments/assets/db63b687-9bbc-4ee9-9a62-76e1409e2daa" />](https://mouta.me)
