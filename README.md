@@ -1,1 +1,1 @@
-[<img width="1286" height="682" alt="Screenshot 2026-04-14 at 16-38-05 Tiago Mouta Full-stack developer" src="https://github.com/user-attachments/assets/db63b687-9bbc-4ee9-9a62-76e1409e2daa" />](https://mouta.me)
+[<img width="1613" height="986" alt="Tiago Mouta — Full-stack developer" src="https://github.com/user-attachments/assets/24bd5540-fdb0-41f0-927e-4d637733a520" />](https://mouta.me/)
